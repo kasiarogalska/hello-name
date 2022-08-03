@@ -1,2 +1,2 @@
-# hello-name
-Small exercises
+# hello-name test 1
+Small exercises test 1
