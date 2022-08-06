@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "DayWeekApp/1.0.0": {
+        "dependencies": {
+          "DayWeekApp.Core": "1.0.0"
+        },
+        "runtime": {
+          "DayWeekApp.dll": {}
+        }
+      },
+      "DayWeekApp.Core/1.0.0": {
+        "runtime": {
+          "DayWeekApp.Core.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DayWeekApp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DayWeekApp.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
